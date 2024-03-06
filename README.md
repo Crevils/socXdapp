@@ -1,2 +1,2 @@
-Building Web3 Social 
-Process Started [|||........................]
+Building Web3 Social <br>
+Process Started [ ::........................ ]
